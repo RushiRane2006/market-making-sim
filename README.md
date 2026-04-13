@@ -70,7 +70,7 @@ While the backtest reflects the difficulties of mean-reverting in trending regim
 
 Order Book Imbalance: Incorporating L2 data to improve fair price estimation.
 
-Machine Learning: Using an LSTM to predict short-term volatility regimes.
+Machine Learning: Using an LSTM to predict short-term volatility regime.
 
 
 ---
