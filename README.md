@@ -50,7 +50,7 @@ By using Bollinger Bands and Trend Filters, the bot avoids the "Toxic Flow" of b
 ### Equity Curve & Inventory Management
 Below is the performance of the final Trend-Aware iteration.
 
-> **[INSERT_EQUITY_CURVE_IMAGE_HERE]**
+> **[image](images/output_v4.png)**
 
 *The top chart shows the Total Equity (PnL) including unrealized gains/losses. The bottom chart illustrates how the Trend Filter successfully maintains asymmetric inventory levels.*
 
